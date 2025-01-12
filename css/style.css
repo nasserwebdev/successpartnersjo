@@ -1097,6 +1097,7 @@ footer .section a {
   margin-top: 15px;
   transition: 0.3s;
   position: relative;
+  cursor: pointer;
 }
 
 footer .section a:hover {
